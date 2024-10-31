@@ -1,7 +1,4 @@
 # Author: Omeed Tabrizi #
-# Course: CSCI 1470.01 #
-# Assignment: Term Project Code#
-# Algorithm:
 
 #imports system parameters
 import sys
